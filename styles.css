@@ -1,0 +1,38 @@
+body {
+    background: #ECD690;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  border: solid 2px;
+  width: 150px;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.email{
+    background:#ECD690;
+    border-radius: 10px ;
+}
+
+.senha{
+    background: #ECD690;
+    border-radius: 10px;
+}
+
+.numero{
+    background: #ECD690;
+    border-radius: 10px;
+}
+
+.submit{
+    background: #00CCEE;
+    border-radius: 10px;
+}
